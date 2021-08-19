@@ -1,0 +1,8 @@
+
+
+venv/
+
+# Compiled Python bytecode
+*.pyc
+
+
